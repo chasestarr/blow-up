@@ -1,0 +1,6 @@
+.container {
+  background-color: #d90710;
+  height: 25px;
+  width: 100%;
+  -webkit-app-region: drag;
+}
